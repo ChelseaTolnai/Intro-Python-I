@@ -1,3 +1,8 @@
+"""
+Allows user to enter 'python prime.py [number]'
+Will return whether or not prime number entered.
+"""
+
 import sys
 
 try:
